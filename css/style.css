@@ -350,7 +350,8 @@ background-color: #FFFFFF;}
 text-align:center;
 }
 .hero-caption p{
-color: #000;
+
+color: #000;
 }
  .fa-angle-down {
     position: absolute;
@@ -397,6 +398,16 @@ color: #F13647;
   font-size: 25px;
   color: #F13647;
 }
+.facebook-icon {
+	color: #1877f2;
+  }
+
+  .instagram-icon {
+	background: linear-gradient(to right, #f7786b, #fdcda4);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  }
+
 .box-services p {
   color: #000000;
   text-align: center;
