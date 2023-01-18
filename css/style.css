@@ -136,11 +136,13 @@ blockquote {
 	position: relative;
 	color: #fff;
 	position: relative;
+	
 }
 .banner-image {
 	vertical-align: middle;
 	min-height: 100%;
 	width: 100%;
+	filter: brightness(50%);
 }
 .banner:after {
 	position: absolute;
