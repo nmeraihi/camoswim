@@ -5,8 +5,8 @@ Indus free coming soon bootstrap responsive template is a well designed modern r
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com 
-=> For more free web themes: http://webthemez.com 
+=> Design and developed: "WebThemez"  https://webthemez.com 
+=> For more free web themes: https://webthemez.com 
 
 Important Note:
 ---------------
@@ -16,7 +16,7 @@ Any question contact us: webthemez@gmail.com
 
 License :
 -------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
+**Creative Commons Attribution 3.0** - https://creativecommons.org/licenses/by/3.0/
 
 - You are allowed to use all files for both personal and commercial projects.
 
